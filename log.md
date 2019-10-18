@@ -5,6 +5,6 @@
 
 **Aactividad**: Realizar una app simple que genere un numero aleatorio entre el 0 y el 50, el cual no se le revelara al usuario, el mismo debe adivinar cual es el numero a medida que va colocando un numero incorrecto se generara una pista para ayudarle.
 
-**Link de la app**: [Adivina el Numero App](https://github.com/betojs/100daysofcode_betojs/blob/master/README.md)
+**Link de la app**: [Adivina el Numero App](Python/adivinaElNumero.py)
 
     
