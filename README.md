@@ -12,7 +12,7 @@
 0.  Visite[el Sitio Oficial](http://100daysofcode.com/) para ver el movimiento #100DaysOfCode. Conéctese con otras personas en la plataforma de su elección de esta lista: www.100DaysOfCode.com/connect
     También,[aquí](https://join.slack.com/t/100xcode/shared_invite/enQtNzQwMzIwMzQxODc5LWQwMjU5Mjg0N2ZiMzIzYzJiZmE0YjNiYTBiZDBjNjlkNjBmMTYxNDBmNmE2YmE2YzY4NTgzY2Y5NDQxNWY5ZDM) es un enlace de invitación al canal 100DaysOfCode Slack
 1.  Leer[Join the #100DaysOfCode](https://medium.freecodecamp.com/join-the-100daysofcode-556ddb4579e4)
-2.  Fork this repo and commit to the[Log](log.md) or to the Alternative, rapid[R1 Log](r1-log.md) (R1 significa Ronda 1) daily. Ejemplo](https://github.com/Kallaway/100-days-kallaway-log).
+2.  Fork this repo and commit to the[Log](log.md).
 3.  **Código mínimo de una hora cada día para los próximos 100 días.**
 4.  **Anima al menos a otras dos personas en el desafío en Twitter todos los días! ¡Paga hacia adelante!
 5.  Cambia la fecha en[Rules](rules.md) al día en que has comenzado el desafío.
