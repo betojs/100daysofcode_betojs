@@ -5,7 +5,7 @@
 ### Voy a codificar por lo menos una hora cada día durante los próximos 100 días.
 
 #### Fecha de inicio
-25 de junio de 2016. [PON TU CITA AQUÍ]
+17 de octubre del 2019
 
 ## Reglas adicionales
 1. Voy a twittear sobre mi progreso todos los días -> usando el hashtag #100DaysOfCode
