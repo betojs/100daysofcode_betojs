@@ -8,3 +8,13 @@
 **Link de la app**: [Adivina el Numero App](Python/adivinaElNumero.py)
 
     
+### [ Dia 1 ]: 18 de Octubre del 2019 
+##### Project Euler.net
+
+> **Y seguimos con _PYTHON..._**
+
+**Aactividad**: Ejercicios planteados por projectEuler. El presente dia realice los primeros dos ejercicios en la lista. aparte agregue un menu tipo switch-case para acceder a culquiera de ellos
+
+**Link de la app**: [Adivina el Numero App](Python/projeuler.py)
+
+    
