@@ -15,6 +15,6 @@
 
 **Aactividad**: Ejercicios planteados por projectEuler. El presente dia realice los primeros dos ejercicios en la lista. aparte agregue un menu tipo switch-case para acceder a culquiera de ellos
 
-**Link de la app**: [Adivina el Numero App](Python/projeuler.py)
+**Link de la app**: [Proj euler App](Python/projeuler.py)
 
     
