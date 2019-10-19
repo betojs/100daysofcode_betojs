@@ -7,18 +7,16 @@ numero = 0
 while(a == numero):
     a = int(random.randrange(50))
     
-
-
 c = 0
 d = 0
-print("Hola {%d}" % a)
+# print("Hola {%d}" % a)
 while(a != numero):
     numero = int(input("Ingresa un numero "))
     if(numero > a):
         print("El numero ingresado es mayor que el Ramdon")
         c = c + 1
         if(c == 2):
-            print ("Intenta con un numero por debajo de %d " % ((a * 2) + 3))
+            print ("Intenta con un numero por debajo de %d " % ((a * 2) ))
         if(c == 4):
             print("El numero es muy bajo ")
             print ("Intenta con un numero por arriba de %d " % (a - numero))
@@ -26,9 +24,9 @@ while(a != numero):
         print("El numero Ingresado es Menor al Ramdon")
         d += 1
         if(d == 2):
-            print ("Intenta con un numero por arriba de %d " % ((a / 2) - 3))
+            print ("Intenta con un numero por arriba de %d " % ((a / 2) ))
         if (d == 4):
-            print("El numero es muy alto")
+            print("El numero es muy bajo")
             print ("Intenta con un numero por deabjo de %d " % ((a + numero)))
             d = 0
 
