@@ -27,7 +27,7 @@
 **Link de la app**: [Proj euler App](Python/projeuler.py)
 
 ### [ Dia 3 ]: 20 de Octubre del 2019 
-##### Project Euler.net
+
 
 > **Y seguimos con _PYTHON..._**
 
